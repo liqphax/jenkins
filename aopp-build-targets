@@ -2,6 +2,7 @@
 # <build_target> <build_variant> <build_version>
 
 pyramid userdebug px-0.1
+pyramid userdebug px-0.2
 angler userdebug px-0.2
 bullhead userdebug px-0.2
 deb userdebug px-0.2
